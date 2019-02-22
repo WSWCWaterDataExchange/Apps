@@ -29,17 +29,32 @@ save(allstates,file="data/allstates.RData")
 
 #Format layer of custom reporting units---------------------------
 #Read in shapefile
-CustomRU <- readOGR(dsn="data/ESRIShapefiles", layer="Custom",stringsAsFactors = F)
+
+CustomRU <- readOGR(dsn="data/ESRIShapefiles", layer="Custom_NoWA",stringsAsFactors = F)
 #Create link for the report catalog
 CustomRU$CATALOGLINK <- paste0("<a href = http://www.westernstateswater.org/CentralCatalog/WADE/v0.2/GetCatalog/GetCatalog.php?loctype=REPORTUNIT&loctxt=",CustomRU$RU_ID,"&orgid=ALL&state=",CustomRU$StateNum," target=\"_blank\"> Catalog Link </a>")
+
 #Subset the records from the central catalog (only custom reporting units)
 Custom_records <- subset(cc,SYM_TOGGLE_RU=="1")
+
 #Select the spatial data that match the subsetted records
 CustomRU_available <- subset(CustomRU,State_RU %in% unique(Custom_records$JOIN_FIELD_RU))
+
 #Remove duplicated spatial data
 CustomRU_available <- subset(CustomRU_available, !duplicated(CATALOGLINK))
+
 #Save formatted data as .RData file
 save(CustomRU_available,file=paste("data","CustomRU_available.RData",sep="/"))
+
+
+#WA custom
+WA_Cust <- readOGR(dsn="data/ESRIShapefiles",layer="WA_State")
+#Create link for the report catalog
+WA_Cust$CATALOGLINK <- paste0("<a href = https://fortress.wa.gov/ecy/wade/v0.2/GetDetail/GetDetail?reportid=2017&loctype=REPORTUNIT&loctxt=",WA_Cust$RU_ID,"&datatype=ALLOCATION target=\"_blank\"> Catalog Link </a>")
+#Save formatted data as .RData file
+save(WA_Cust,file=paste("data","WA_Cust.RData",sep="/"))
+
+
 
 #Format all three levels of custom reporting units for California---
 #Read in shapefile for outline of CA
@@ -65,6 +80,8 @@ PA$CATALOGLINK <- paste0("<a href =  http://www.westernstateswater.org/CentralCa
 #Save formatted data as .RData file
 save(PA,file=paste("data","PA.RData",sep="/"))
 
+
+
 #CA Detailed Analysis Units
 #Read in shapefile for Detailed Analysis Units
 DAU <- readOGR(dsn="data/ESRIShapefiles",layer="DAU")
@@ -89,7 +106,7 @@ save(HUC_available,file=paste("data","HUC_available.RData",sep="/"))
 
 #County------------------------------------------------------------
 #Read in shapefile for counties
-County <- readOGR(dsn="data/ESRIShapefiles", layer="County")
+County <- readOGR(dsn="data/ESRIShapefiles", layer="County_NoWA")
 #Create link for the report catalog
 County$CATALOGLINK <- paste0("<a href = http://www.westernstateswater.org/CentralCatalog/WADE/v0.2/GetCatalog/GetCatalog.php?loctype=COUNTY&loctxt=",County$GEOID,"&orgid=ALL&state=",County$StateNum," target=\"_blank\"> Catalog Link </a>")
 #Subset the records from the central catalog (only counties)
@@ -100,3 +117,13 @@ CO_available <- subset(County,GEOID %in% unique(CO_records$COUNTY_FIPS))
 CO_available <- subset(CO_available, !duplicated(CATALOGLINK))
 #Save formatted data as .RData file
 save(CO_available,file=paste("data","CO_available.RData",sep="/"))
+
+
+
+
+
+
+
+
+
+print ("Done")
