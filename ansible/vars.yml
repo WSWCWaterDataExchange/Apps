@@ -1,0 +1,37 @@
+---
+
+# This is the name of the application, used to differentiate the path where the 
+# shiny code is stored, from other applications deployed on the same instance
+app_name: shiny
+
+# This is the path on the EC2 instance where the applications code is cloned
+# This path should be consistent between applications that would be deployed 
+# on the same instance, so if you change this value on this playbook you must
+# set the same exact value on other playbooks 'clone_location' variable
+clone_location: "/home/ubuntu/env/"
+
+# This is the URL of this same repository with the username and password
+# You must replace "<github-username>" and "<github-passwd>" with your
+# actual username and password for github, to allow this project to be 
+# cloned from the ec2 instance
+shiny_repo: https://<github-username>:<github-passwd>@github.com/WSWCWaterDataExchange/Apps.git
+
+# This is the name of the container. It is referenced on the "files/shiny_server.j2" 
+# template to help the webserver figure out how to reach the container and forward 
+# the requests for the valid DNS names
+shiny_container: shiny
+
+# The following three variables are the names of the sub-domains to which each 
+# shiny application on this repository will answer respectively. These three 
+# variables are also referenced on "files/shiny_server.j2". There is a 
+# definition for each sub-domain name, pointing to which path on the shiny 
+# server is the respective application code
+
+# Utah
+utah_server_name: apps.westernstateswater.org
+
+# California 
+cad_server_name: 
+
+# Wyoming
+wyoming_server_name: 

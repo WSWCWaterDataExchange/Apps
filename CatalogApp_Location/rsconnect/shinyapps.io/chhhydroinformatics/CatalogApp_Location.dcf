@@ -1,0 +1,12 @@
+name: CatalogApp_Location
+title: CatalogApp_Location
+username:
+account: chhhydroinformatics
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 287850
+bundleId: 1428817
+url: https://chhhydroinformatics.shinyapps.io/CatalogApp_Location/
+when: 1528959027.11182
+asMultiple: FALSE
+asStatic: FALSE

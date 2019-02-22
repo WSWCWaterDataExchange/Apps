@@ -1,0 +1,486 @@
+RowIndex,ReportingUnit,ReportingUnitName,DAUNumber,CoNumber,Name_ID,DAUName,CoName
+1,DAU06435,DAU06435,64,35,DAU06435 : San Benito River - San Benito,San Benito River,San Benito
+2,DAU33633,DAU33633,336,33,DAU33633 : Pinto - Riverside,Pinto,Riverside
+3,DAU34633,DAU34633,346,33,DAU34633 : Arroyo Seco - Colorado River - Riverside,Arroyo Seco - Colorado River,Riverside
+10,DAU15629,DAU15629,156,29,DAU15629 : Yuba-Bear Rivers - Nevada,Yuba-Bear Rivers,Nevada
+11,DAU29236,DAU29236,292,36,DAU29236 : Owlshead - San Bernardino,Owlshead,San Bernardino
+15,DAU33236,DAU33236,332,36,DAU33236 : Ward - San Bernardino,Ward,San Bernardino
+16,DAU25316,DAU25316,253,16,DAU25316 : Temblor - Kings,Temblor,Kings
+17,DAU19722,DAU19722,197,22,DAU19722 : Merced River - Mariposa,Merced River,Mariposa
+18,DAU23816,DAU23816,238,16,DAU23816 : Hanford-Lemoore - Kings,Hanford-Lemoore,Kings
+22,DAU28414,DAU28414,284,14,DAU28414 : Race Track - Inyo,Race Track,Inyo
+23,DAU05927,DAU05927,59,27,DAU05927 : Watsonville - Monterey,Watsonville,Monterey
+24,DAU17517,DAU17517,175,17,DAU17517 : Putah Creek - Lake,Putah Creek,Lake
+26,DAU05227,DAU05227,52,27,DAU05227 : Monterey Peninsula - Monterey,Monterey Peninsula,Monterey
+27,DAU00147,DAU00147,1,47,DAU00147 : Lost River - Siskiyou,Lost River,Siskiyou
+28,DAU19822,DAU19822,198,22,DAU19822 : Tuolumne-Merced Interstream - Mariposa,Tuolumne-Merced Interstream,Mariposa
+32,DAU34713,DAU34713,347,13,DAU34713 : Yuma - Imperial,Yuma,Imperial
+35,DAU01949,DAU01949,19,49,DAU01949 : Gualala - Sonoma,Gualala,Sonoma
+36,DAU13425,DAU13425,134,25,DAU13425 : MacArthur-Hat Creek - Modoc,MacArthur-Hat Creek,Modoc
+37,DAU02323,DAU02323,23,23,DAU02323 : South Fork Eel - Mendocino,South Fork Eel,Mendocino
+39,DAU03821,DAU03821,38,21,DAU03821 : West Marin - Marin,West Marin,Marin
+40,DAU29836,DAU29836,298,36,DAU29836 : Panamint - San Bernardino,Panamint,San Bernardino
+42,DAU26218,DAU26218,262,18,DAU26218 : Surprise Valley - Lassen,Surprise Valley,Lassen
+43,DAU33336,DAU33336,333,36,DAU33336 : Rice - San Bernardino,Rice,San Bernardino
+44,DAU14552,DAU14552,145,52,DAU14552 : Cow-Battle Creek - Tehama,Cow-Battle Creek,Tehama
+50,DAU19555,DAU19555,195,55,DAU19555 : Tuolumne River - Tuolumne,Tuolumne River,Tuolumne
+63,DAU29136,DAU29136,291,36,DAU29136 : Ivanpah - San Bernardino,Ivanpah,San Bernardino
+66,DAU04543,DAU04543,45,43,DAU04543 : Livermore - Santa Clara,Livermore,Santa Clara
+70,DAU35033,DAU35033,350,33,DAU35033 : Clark - Riverside,Clark,Riverside
+72,DAU17609,DAU17609,176,9,DAU17609 : Consumnes-Mokelumne-Calaveras - El Dorado,Consumnes-Mokelumne-Calaveras,El Dorado
+73,DAU29636,DAU29636,296,36,DAU29636 : Goldstone - San Bernardino,Goldstone,San Bernardino
+78,DAU18657,DAU18657,186,57,DAU18657 : Sacramento Delta - Yolo,Sacramento Delta,Yolo
+80,DAU09633,DAU09633,96,33,DAU09633 : Orange - Riverside,Orange,Riverside
+88,DAU21639,DAU21639,216,39,DAU21639 : West Side - San Joaquin,West Side,San Joaquin
+89,DAU00447,DAU00447,4,47,DAU00447 : Shasta Valley - Siskiyou,Shasta Valley,Siskiyou
+90,DAU14352,DAU14352,143,52,DAU14352 : Redding East - Tehama,Redding East,Tehama
+91,DAU17004,DAU17004,170,4,DAU17004 : Honcut Valley - Butte,Honcut Valley,Butte
+92,DAU22854,DAU22854,228,54,DAU22854 : Poso Creek - Tulare,Poso Creek,Tulare
+96,DAU26809,DAU26809,268,9,DAU26809 : Truckee-Tahoe - El Dorado,Truckee-Tahoe,El Dorado
+97,DAU17634,DAU17634,176,34,DAU17634 : Consumnes-Mokelumne-Calaveras - Sacramento,Consumnes-Mokelumne-Calaveras,Sacramento
+98,DAU40449,DAU40449,404,49,DAU40449 : Middle Russian - Sonoma,Middle Russian,Sonoma
+99,DAU28026,DAU28026,280,26,DAU28026 : Fish Lake - Mono,Fish Lake,Mono
+100,DAU30619,DAU30619,306,19,DAU30619 : Rosamond-Palmdale - Los Angeles,Rosamond-Palmdale,Los Angeles
+101,DAU22815,DAU22815,228,15,DAU22815 : Poso Creek - Kern,Poso Creek,Kern
+102,DAU09219,DAU09219,92,19,DAU09219 : San Gabriel - Los Angeles,San Gabriel,Los Angeles
+103,DAU17234,DAU17234,172,34,DAU17234 : Placer - Sacramento,Placer,Sacramento
+104,DAU07342,DAU07342,73,42,DAU07342 : San Antonio - Santa Barbara,San Antonio,Santa Barbara
+105,DAU20120,DAU20120,201,20,DAU20120 : Chowchilla  River - Madera,Chowchilla  River,Madera
+111,DAU04241,DAU04241,42,41,DAU04241 : San Mateo Coast - San Mateo,San Mateo Coast,San Mateo
+114,DAU18239,DAU18239,182,39,DAU18239 : Lodi - San Joaquin,Lodi,San Joaquin
+116,DAU08919,DAU08919,89,19,DAU08919 : Coastal - Los Angeles,Coastal,Los Angeles
+117,DAU27726,DAU27726,277,26,DAU27726 : Upper Owens - Mono,Upper Owens,Mono
+118,DAU30515,DAU30515,305,15,DAU30515 : Mojave - Kern,Mojave,Kern
+120,DAU00347,DAU00347,3,47,DAU00347 : Scott Valley - Siskiyou,Scott Valley,Siskiyou
+121,DAU14152,DAU14152,141,52,DAU14152 : Redding West - Tehama,Redding West,Tehama
+122,DAU05935,DAU05935,59,35,DAU05935 : Watsonville - San Benito,Watsonville,San Benito
+125,DAU26546,DAU26546,265,46,DAU26546 : Herlong - Sierra,Herlong,Sierra
+126,DAU26115,DAU26115,261,15,DAU26115 : Wheeler Ridge-Maricopa - Kern,Wheeler Ridge-Maricopa,Kern
+127,DAU35233,DAU35233,352,33,DAU35233 : Anza - Riverside,Anza,Riverside
+129,DAU16604,DAU16604,166,4,DAU16604 : Durham-Sutter - Butte,Durham-Sutter,Butte
+130,DAU19920,DAU19920,199,20,DAU19920 : Chowchilla-Fresno Interstream - Madera,Chowchilla-Fresno Interstream,Madera
+131,DAU32633,DAU32633,326,33,DAU32633 : Joshua Tree - Riverside,Joshua Tree,Riverside
+132,DAU24616,DAU24616,246,16,DAU24616 : South Tulare Lake - Kings,South Tulare Lake,Kings
+136,DAU22954,DAU22954,229,54,DAU22954 : Upper Kern River - Tulare,Upper Kern River,Tulare
+139,DAU20950,DAU20950,209,50,DAU20950 : Turlock Lake - Stanislaus,Turlock Lake,Stanislaus
+140,DAU09830,DAU09830,98,30,DAU09830 : Riverside North - Orange,Riverside North,Orange
+141,DAU31736,DAU31736,317,36,DAU31736 : Kelso - San Bernardino,Kelso,San Bernardino
+142,DAU24715,DAU24715,247,15,DAU24715 : Kettleman Hills - Kern,Kettleman Hills,Kern
+142,DAU24715,DAU24715,247,15,DAU24715 : Kettleman Hills - Kern,Kettleman Hills,Kern
+143,DAU22310,DAU22310,223,10,DAU22310 : Kings-Kaweah Interstream - Fresno,Kings-Kaweah Interstream,Fresno
+147,DAU35113,DAU35113,351,13,DAU35113 : West Salton Sea - Imperial,West Salton Sea,Imperial
+148,DAU25754,DAU25754,257,54,DAU25754 : Northeastern Kern - Tulare,Northeastern Kern,Tulare
+151,DAU30719,DAU30719,307,19,DAU30719 : Pearblossom - Los Angeles,Pearblossom,Los Angeles
+152,DAU01823,DAU01823,18,23,DAU01823 : Navarro-Garcia - Mendocino,Navarro-Garcia,Mendocino
+153,DAU21824,DAU21824,218,24,DAU21824 : Orestimba Creek - Merced,Orestimba Creek,Merced
+155,DAU15803,DAU15803,158,3,DAU15803 : American River - Amador,American River,Amador
+157,DAU19922,DAU19922,199,22,DAU19922 : Chowchilla-Fresno Interstream - Mariposa,Chowchilla-Fresno Interstream,Mariposa
+160,DAU24254,DAU24254,242,54,DAU24254 : Kaweah Delta - Tulare,Kaweah Delta,Tulare
+161,DAU07142,DAU07142,71,42,DAU07142 : Santa Maria Valley-SB - Santa Barbara,Santa Maria Valley-SB,Santa Barbara
+165,DAU19148,DAU19148,191,48,DAU19148 : Vacaville - Solano,Vacaville,Solano
+166,DAU29936,DAU29936,299,36,DAU29936 : Searles - San Bernardino,Searles,San Bernardino
+168,DAU28214,DAU28214,282,14,DAU28214 : Eureka - Inyo,Eureka,Inyo
+171,DAU21650,DAU21650,216,50,DAU21650 : West Side - Stanislaus,West Side,Stanislaus
+175,DAU18634,DAU18634,186,34,DAU18634 : Sacramento Delta - Sacramento,Sacramento Delta,Sacramento
+176,DAU08156,DAU08156,81,56,DAU08156 : Ventura County - Ventura,Ventura County,Ventura
+178,DAU02553,DAU02553,25,53,DAU02553 : Upper Eel - Trinity,Upper Eel,Trinity
+179,DAU16706,DAU16706,167,6,DAU16706 : Butte City - Colusa,Butte City,Colusa
+180,DAU33433,DAU33433,334,33,DAU33433 : Ford - Riverside,Ford,Riverside
+181,DAU29336,DAU29336,293,36,DAU29336 : Leach - San Bernardino,Leach,San Bernardino
+182,DAU17406,DAU17406,174,6,DAU17406 : Cache Creek - Colusa,Cache Creek,Colusa
+184,DAU05027,DAU05027,50,27,DAU05027 : Forebay - Monterey,Forebay,Monterey
+185,DAU20639,DAU20639,206,39,DAU20639 : Modesto-Oakdale - San Joaquin,Modesto-Oakdale,San Joaquin
+186,DAU16058,DAU16058,160,58,DAU16058 : Yuba Foothill - Yuba,Yuba Foothill,Yuba
+187,DAU33133,DAU33133,331,33,DAU33133 : Cadiz - Riverside,Cadiz,Riverside
+191,DAU31836,DAU31836,318,36,DAU31836 : Broadwell - San Bernardino,Broadwell,San Bernardino
+192,DAU01723,DAU01723,17,23,DAU01723 : Big-Noyo-Ten Mile - Mendocino,Big-Noyo-Ten Mile,Mendocino
+193,DAU06740,DAU06740,67,40,DAU06740 : San Luis Obispo - San Luis Obispo,San Luis Obispo,San Luis Obispo
+194,DAU39221,DAU39221,392,21,DAU39221 : East Marin - Marin,East Marin,Marin
+195,DAU25515,DAU25515,255,15,DAU25515 : Semitropic - Kern,Semitropic,Kern
+197,DAU33413,DAU33413,334,13,DAU33413 : Ford - Imperial,Ford,Imperial
+199,DAU34533,DAU34533,345,33,DAU34533 : Palo Verde - Riverside,Palo Verde,Riverside
+200,DAU24910,DAU24910,249,10,DAU24910 : Ciervo Hills - Fresno,Ciervo Hills,Fresno
+201,DAU15418,DAU15418,154,18,DAU15418 : Feather River - Lassen,Feather River,Lassen
+202,DAU33036,DAU33036,330,36,DAU33036 : Lanfair - San Bernardino,Lanfair,San Bernardino
+204,DAU25115,DAU25115,251,15,DAU25115 : Reef Ridge - Kern,Reef Ridge,Kern
+205,DAU24116,DAU24116,241,16,DAU24116 : Tulare Lake - Kings,Tulare Lake,Kings
+209,DAU25315,DAU25315,253,15,DAU25315 : Temblor - Kern,Temblor,Kern
+212,DAU18501,DAU18501,185,1,DAU18501 : San Joaquin Delta - Alameda,San Joaquin Delta,Alameda
+213,DAU05435,DAU05435,54,35,DAU05435 : Gabilan Range - San Benito,Gabilan Range,San Benito
+215,DAU34833,DAU34833,348,33,DAU34833 : Coachella - Riverside,Coachella,Riverside
+216,DAU21624,DAU21624,216,24,DAU21624 : West Side - Merced,West Side,Merced
+220,DAU19650,DAU19650,196,50,DAU19650 : Stanislaus-Tuolumne Interstrea - Stanislaus,Stanislaus-Tuolumne Interstrea,Stanislaus
+223,DAU26518,DAU26518,265,18,DAU26518 : Herlong - Lassen,Herlong,Lassen
+227,DAU20022,DAU20022,200,22,DAU20022 : Fresno River - Mariposa,Fresno River,Mariposa
+228,DAU30314,DAU30314,303,14,DAU30314 : Indian Wells - Inyo,Indian Wells,Inyo
+230,DAU30636,DAU30636,306,36,DAU30636 : Rosamond-Palmdale - San Bernardino,Rosamond-Palmdale,San Bernardino
+231,DAU24216,DAU24216,242,16,DAU24216 : Kaweah Delta - Kings,Kaweah Delta,Kings
+232,DAU10036,DAU10036,100,36,DAU10036 : San Bernardino - San Bernardino,San Bernardino,San Bernardino
+233,DAU32536,DAU32536,325,36,DAU32536 : Deadman - San Bernardino,Deadman,San Bernardino
+234,DAU01012,DAU01012,10,12,DAU01012 : Lower Klamath - Humboldt,Lower Klamath,Humboldt
+235,DAU31536,DAU31536,315,36,DAU31536 : Coyote - Death Valley - San Bernardino,Coyote - Death Valley,San Bernardino
+238,DAU21739,DAU21739,217,39,DAU21739 : Del Puerto Creek - San Joaquin,Del Puerto Creek,San Joaquin
+239,DAU34136,DAU34136,341,36,DAU34136 : Chemehuevis - San Bernardino,Chemehuevis,San Bernardino
+240,DAU23910,DAU23910,239,10,DAU23910 : Alta - Fresno,Alta,Fresno
+244,DAU14704,DAU14704,147,4,DAU14704 : Eastside Creek Group - Butte,Eastside Creek Group,Butte
+247,DAU16851,DAU16851,168,51,DAU16851 : Yuba City-Gridley - Sutter,Yuba City-Gridley,Sutter
+248,DAU19207,DAU19207,192,7,DAU19207 : Antioch-Corral Hollow - Contra Costa,Antioch-Corral Hollow,Contra Costa
+249,DAU24710,DAU24710,247,10,DAU24710 : Kettleman Hills - Fresno,Kettleman Hills,Fresno
+249,DAU24710,DAU24710,247,10,DAU24710 : Kettleman Hills - Fresno,Kettleman Hills,Fresno
+251,DAU20824,DAU20824,208,24,DAU20824 : Turlock - Merced,Turlock,Merced
+252,DAU28914,DAU28914,289,14,DAU28914 : Pahrump - Inyo,Pahrump,Inyo
+254,DAU06135,DAU06135,61,35,DAU06135 : Santa Cruz Mountains - San Benito,Santa Cruz Mountains,San Benito
+257,DAU21124,DAU21124,211,24,DAU21124 : Merced Stream Group - Merced,Merced Stream Group,Merced
+258,DAU02112,DAU02112,21,12,DAU02112 : Van Duzen - Humboldt,Van Duzen,Humboldt
+259,DAU19850,DAU19850,198,50,DAU19850 : Tuolumne-Merced Interstream - Stanislaus,Tuolumne-Merced Interstream,Stanislaus
+262,DAU23015,DAU23015,230,15,DAU23015 : Lower Kern River - Kern,Lower Kern River,Kern
+263,DAU26418,DAU26418,264,18,DAU26418 : Susanville - Lassen,Susanville,Lassen
+265,DAU19624,DAU19624,196,24,DAU19624 : Stanislaus-Tuolumne Interstrea - Merced,Stanislaus-Tuolumne Interstrea,Merced
+267,DAU04048,DAU04048,40,48,DAU04048 : Napa - Solano,Napa,Solano
+271,DAU25340,DAU25340,253,40,DAU25340 : Temblor - San Luis Obispo,Temblor,San Luis Obispo
+272,DAU25815,DAU25815,258,15,DAU25815 : Arvin-Edison - Kern,Arvin-Edison,Kern
+275,DAU29014,DAU29014,290,14,DAU29014 : Mesquite - Inyo,Mesquite,Inyo
+276,DAU19455,DAU19455,194,55,DAU19455 : Stanislaus River - Tuolumne,Stanislaus River,Tuolumne
+277,DAU21420,DAU21420,214,20,DAU21420 : Adobe - Valley Eastside - Madera,Adobe - Valley Eastside,Madera
+283,DAU17548,DAU17548,175,48,DAU17548 : Putah Creek - Solano,Putah Creek,Solano
+284,DAU28636,DAU28636,286,36,DAU28636 : Valjean - San Bernardino,Valjean,San Bernardino
+286,DAU15404,DAU15404,154,4,DAU15404 : Feather River - Butte,Feather River,Butte
+287,DAU22024,DAU22024,220,24,DAU22024 : Los Banos Creek - Merced,Los Banos Creek,Merced
+287,DAU22024,DAU22024,220,24,DAU22024 : Los Banos Creek - Merced,Los Banos Creek,Merced
+288,DAU30315,DAU30315,303,15,DAU30315 : Indian Wells - Kern,Indian Wells,Kern
+293,DAU34913,DAU34913,349,13,DAU34913 : East Salton Sea - Imperial,East Salton Sea,Imperial
+297,DAU01408,DAU01408,14,8,DAU01408 : Smith River Basin - Del Norte,Smith River Basin,Del Norte
+298,DAU25415,DAU25415,254,15,DAU25415 : Kern Delta - Kern,Kern Delta,Kern
+303,DAU03721,DAU03721,37,21,DAU03721 : Bodega - Marin,Bodega,Marin
+304,DAU29915,DAU29915,299,15,DAU29915 : Searles - Kern,Searles,Kern
+311,DAU17602,DAU17602,176,2,DAU17602 : Consumnes-Mokelumne-Calaveras - Alpine,Consumnes-Mokelumne-Calaveras,Alpine
+314,DAU23410,DAU23410,234,10,DAU23410 : Academy - Fresno,Academy,Fresno
+315,DAU02012,DAU02012,20,12,DAU02012 : Lower Eel - Humboldt,Lower Eel,Humboldt
+316,DAU27626,DAU27626,276,26,DAU27626 : Long - Mono,Long,Mono
+318,DAU17251,DAU17251,172,51,DAU17251 : Placer - Sutter,Placer,Sutter
+319,DAU25240,DAU25240,252,40,DAU25240 : Grapevine - San Luis Obispo,Grapevine,San Luis Obispo
+321,DAU04338,DAU04338,43,38,DAU04338 : South Bay Peninsula - NA,South Bay Peninsula,NA
+322,DAU26846,DAU26846,268,46,DAU26846 : Truckee-Tahoe - Sierra,Truckee-Tahoe,Sierra
+323,DAU13647,DAU13647,136,47,DAU13647 : Upper Shasta Lake - Siskiyou,Upper Shasta Lake,Siskiyou
+326,DAU27526,DAU27526,275,26,DAU27526 : Adobe - Mono-Owens area - Mono,Adobe - Mono-Owens area,Mono
+329,DAU07542,DAU07542,75,42,DAU07542 : South Coast - Santa Barbara,South Coast,Santa Barbara
+330,DAU24054,DAU24054,240,54,DAU24054 : Orange Cove - Tulare,Orange Cove,Tulare
+332,DAU21520,DAU21520,215,20,DAU21520 : Gravelly Ford - Madera,Gravelly Ford,Madera
+333,DAU40323,DAU40323,403,23,DAU40323 : Upper Russian - Mendocino,Upper Russian,Mendocino
+334,DAU16406,DAU16406,164,6,DAU16406 : Glenn-Knights Landing - Colusa,Glenn-Knights Landing,Colusa
+337,DAU17417,DAU17417,174,17,DAU17417 : Cache Creek - Lake,Cache Creek,Lake
+342,DAU19720,DAU19720,197,20,DAU19720 : Merced River - Madera,Merced River,Madera
+344,DAU34837,DAU34837,348,37,DAU34837 : Coachella - San Diego,Coachella,San Diego
+350,DAU16257,DAU16257,162,57,DAU16257 : Lower Cache Creek - Yolo,Lower Cache Creek,Yolo
+351,DAU04507,DAU04507,45,7,DAU04507 : Livermore - Contra Costa,Livermore,Contra Costa
+352,DAU26802,DAU26802,268,2,DAU26802 : Truckee-Tahoe - Alpine,Truckee-Tahoe,Alpine
+357,DAU05944,DAU05944,59,44,DAU05944 : Watsonville - Santa Cruz,Watsonville,Santa Cruz
+360,DAU32436,DAU32436,324,36,DAU32436 : Lavic - San Bernardino,Lavic,San Bernardino
+362,DAU00712,DAU00712,7,12,DAU00712 : Trinity - Humboldt,Trinity,Humboldt
+363,DAU35613,DAU35613,356,13,DAU35613 : Amos-Agilby - Imperial,Amos-Agilby,Imperial
+364,DAU33233,DAU33233,332,33,DAU33233 : Ward - Riverside,Ward,Riverside
+366,DAU05427,DAU05427,54,27,DAU05427 : Gabilan Range - Monterey,Gabilan Range,Monterey
+367,DAU02517,DAU02517,25,17,DAU02517 : Upper Eel - Lake,Upper Eel,Lake
+369,DAU06235,DAU06235,62,35,DAU06235 : South Santa Clara Valley - San Benito,South Santa Clara Valley,San Benito
+370,DAU16704,DAU16704,167,4,DAU16704 : Butte City - Butte,Butte City,Butte
+371,DAU31236,DAU31236,312,36,DAU31236 : Lower Mojave - San Bernardino,Lower Mojave,San Bernardino
+372,DAU16357,DAU16357,163,57,DAU16357 : Willows-Arbuckle - Yolo,Willows-Arbuckle,Yolo
+373,DAU30036,DAU30036,300,36,DAU30036 : Cuddeback - San Bernardino,Cuddeback,San Bernardino
+374,DAU23710,DAU23710,237,10,DAU23710 : Lower Kings River - Fresno,Lower Kings River,Fresno
+375,DAU29814,DAU29814,298,14,DAU29814 : Panamint - Inyo,Panamint,Inyo
+376,DAU35237,DAU35237,352,37,DAU35237 : Anza - San Diego,Anza,San Diego
+377,DAU18450,DAU18450,184,50,DAU18450 : Bachelor Valley - Stanislaus,Bachelor Valley,Stanislaus
+378,DAU09619,DAU09619,96,19,DAU09619 : Orange - Los Angeles,Orange,Los Angeles
+379,DAU31336,DAU31336,313,36,DAU31336 : Afton - San Bernardino,Afton,San Bernardino
+380,DAU15809,DAU15809,158,9,DAU15809 : American River - El Dorado,American River,El Dorado
+382,DAU23115,DAU23115,231,15,DAU23115 : Caliente Creek - Kern,Caliente Creek,Kern
+383,DAU23310,DAU23310,233,10,DAU23310 : Fresno - Fresno,Fresno,Fresno
+384,DAU15631,DAU15631,156,31,DAU15631 : Yuba-Bear Rivers - Placer,Yuba-Bear Rivers,Placer
+385,DAU29036,DAU29036,290,36,DAU29036 : Mesquite - San Bernardino,Mesquite,San Bernardino
+386,DAU04707,DAU04707,47,7,DAU04707 : Oakland - Contra Costa,Oakland,Contra Costa
+390,DAU22654,DAU22654,226,54,DAU22654 : Tule River - Tulare,Tule River,Tulare
+393,DAU04128,DAU04128,41,28,DAU04128 : Solano - Napa,Solano,Napa
+397,DAU11430,DAU11430,114,30,DAU11430 : Viego - Orange,Viego,Orange
+398,DAU24010,DAU24010,240,10,DAU24010 : Orange Cove - Fresno,Orange Cove,Fresno
+400,DAU07240,DAU07240,72,40,DAU07240 : Cuyama Valley-SLO - San Luis Obispo,Cuyama Valley-SLO,San Luis Obispo
+401,DAU33833,DAU33833,338,33,DAU33833 : Hayfield - Riverside,Hayfield,Riverside
+402,DAU24716,DAU24716,247,16,DAU24716 : Kettleman Hills - Kings,Kettleman Hills,Kings
+402,DAU24716,DAU24716,247,16,DAU24716 : Kettleman Hills - Kings,Kettleman Hills,Kings
+406,DAU17457,DAU17457,174,57,DAU17457 : Cache Creek - Yolo,Cache Creek,Yolo
+410,DAU26618,DAU26618,266,18,DAU26618 : Upper Honey Lake - Lassen,Upper Honey Lake,Lassen
+411,DAU07656,DAU07656,76,56,DAU07656 : Cuyama Valley-SB - Ventura,Cuyama Valley-SB,Ventura
+412,DAU03849,DAU03849,38,49,DAU03849 : West Marin - Sonoma,West Marin,Sonoma
+417,DAU18105,DAU18105,181,5,DAU18105 : Ione-Jenny Lind - Calaveras,Ione-Jenny Lind,Calaveras
+418,DAU20020,DAU20020,200,20,DAU20020 : Fresno River - Madera,Fresno River,Madera
+419,DAU27714,DAU27714,277,14,DAU27714 : Upper Owens - Inyo,Upper Owens,Inyo
+422,DAU02712,DAU02712,27,12,DAU02712 : Mattole-Bear - Humboldt,Mattole-Bear,Humboldt
+423,DAU19239,DAU19239,192,39,DAU19239 : Antioch-Corral Hollow - San Joaquin,Antioch-Corral Hollow,San Joaquin
+424,DAU32036,DAU32036,320,36,DAU32036 : Johnson - San Bernardino,Johnson,San Bernardino
+425,DAU04701,DAU04701,47,1,DAU04701 : Oakland - Alameda,Oakland,Alameda
+426,DAU11033,DAU11033,110,33,DAU11033 : Temecula - Riverside,Temecula,Riverside
+427,DAU19402,DAU19402,194,2,DAU19402 : Stanislaus River - Alpine,Stanislaus River,Alpine
+429,DAU24515,DAU24515,245,15,DAU24515 : Kettleman Plain - Kern,Kettleman Plain,Kern
+430,DAU20420,DAU20420,204,20,DAU20420 : Little Dry Creek - Madera,Little Dry Creek,Madera
+433,DAU19405,DAU19405,194,5,DAU19405 : Stanislaus River - Calaveras,Stanislaus River,Calaveras
+440,DAU09019,DAU09019,90,19,DAU09019 : San Fernando - Los Angeles,San Fernando,Los Angeles
+441,DAU23916,DAU23916,239,16,DAU23916 : Alta - Kings,Alta,Kings
+443,DAU26015,DAU26015,260,15,DAU26015 : Buena Vista Valley - Kern,Buena Vista Valley,Kern
+447,DAU13018,DAU13018,130,18,DAU13018 : Goose Lake-Alturas - Lassen,Goose Lake-Alturas,Lassen
+448,DAU30214,DAU30214,302,14,DAU30214 : Upper Cactus - Inyo,Upper Cactus,Inyo
+453,DAU14252,DAU14252,142,52,DAU14252 : Red Bluff-Orland - Tehama,Red Bluff-Orland,Tehama
+455,DAU20539,DAU20539,205,39,DAU20539 : South San Joaquin ID - San Joaquin,South San Joaquin ID,San Joaquin
+456,DAU15904,DAU15904,159,4,DAU15904 : Honcut Foothill - Butte,Honcut Foothill,Butte
+457,DAU07556,DAU07556,75,56,DAU07556 : South Coast - Ventura,South Coast,Ventura
+460,DAU35713,DAU35713,357,13,DAU35713 : Salton Sea - Imperial,Salton Sea,Imperial
+462,DAU16451,DAU16451,164,51,DAU16451 : Glenn-Knights Landing - Sutter,Glenn-Knights Landing,Sutter
+463,DAU40423,DAU40423,404,23,DAU40423 : Middle Russian - Mendocino,Middle Russian,Mendocino
+464,DAU31436,DAU31436,314,36,DAU31436 : Troy - San Bernardino,Troy,San Bernardino
+465,DAU31036,DAU31036,310,36,DAU31036 : Middle Mojave - San Bernardino,Middle Mojave,San Bernardino
+466,DAU03212,DAU03212,32,12,DAU03212 : Eureka Plain - Humboldt,Eureka Plain,Humboldt
+467,DAU11433,DAU11433,114,33,DAU11433 : Viego - Riverside,Viego,Riverside
+468,DAU19157,DAU19157,191,57,DAU19157 : Vacaville - Yolo,Vacaville,Yolo
+469,DAU27814,DAU27814,278,14,DAU27814 : Lower Owens - Inyo,Lower Owens,Inyo
+471,DAU20410,DAU20410,204,10,DAU20410 : Little Dry Creek - Fresno,Little Dry Creek,Fresno
+483,DAU09630,DAU09630,96,30,DAU09630 : Orange - Orange,Orange,Orange
+486,DAU23610,DAU23610,236,10,DAU23610 : Consolidated - Fresno,Consolidated,Fresno
+491,DAU19605,DAU19605,196,5,DAU19605 : Stanislaus-Tuolumne Interstrea - Calaveras,Stanislaus-Tuolumne Interstrea,Calaveras
+492,DAU35437,DAU35437,354,37,DAU35437 : Coyote Wells - San Diego,Coyote Wells,San Diego
+493,DAU02512,DAU02512,25,12,DAU02512 : Upper Eel - Humboldt,Upper Eel,Humboldt
+494,DAU13445,DAU13445,134,45,DAU13445 : MacArthur-Hat Creek - Shasta,MacArthur-Hat Creek,Shasta
+495,DAU30415,DAU30415,304,15,DAU30415 : Fremont - Kern,Fremont,Kern
+496,DAU26225,DAU26225,262,25,DAU26225 : Surprise Valley - Modoc,Surprise Valley,Modoc
+497,DAU13418,DAU13418,134,18,DAU13418 : MacArthur-Hat Creek - Lassen,MacArthur-Hat Creek,Lassen
+498,DAU02812,DAU02812,28,12,DAU02812 : Redwood Creek - Humboldt,Redwood Creek,Humboldt
+502,DAU22210,DAU22210,222,10,DAU22210 : Kings River - Fresno,Kings River,Fresno
+503,DAU18507,DAU18507,185,7,DAU18507 : San Joaquin Delta - Contra Costa,San Joaquin Delta,Contra Costa
+505,DAU15632,DAU15632,156,32,DAU15632 : Yuba-Bear Rivers - Plumas,Yuba-Bear Rivers,Plumas
+510,DAU35513,DAU35513,355,13,DAU35513 : Davies - Imperial,Davies,Imperial
+512,DAU14345,DAU14345,143,45,DAU14345 : Redding East - Shasta,Redding East,Shasta
+514,DAU17158,DAU17158,171,58,DAU17158 : Yuba - Yuba,Yuba,Yuba
+515,DAU14145,DAU14145,141,45,DAU14145 : Redding West - Shasta,Redding West,Shasta
+516,DAU40523,DAU40523,405,23,DAU40523 : Dry Creek - Mendocino,Dry Creek,Mendocino
+518,DAU29436,DAU29436,294,36,DAU29436 : Nelson - San Bernardino,Nelson,San Bernardino
+519,DAU33533,DAU33533,335,33,DAU33533 : Palen - Riverside,Palen,Riverside
+521,DAU13025,DAU13025,130,25,DAU13025 : Goose Lake-Alturas - Modoc,Goose Lake-Alturas,Modoc
+523,DAU34933,DAU34933,349,33,DAU34933 : East Salton Sea - Riverside,East Salton Sea,Riverside
+524,DAU24516,DAU24516,245,16,DAU24516 : Kettleman Plain - Kings,Kettleman Plain,Kings
+525,DAU39149,DAU39149,391,49,DAU39149 : South Sonoma - Sonoma,South Sonoma,Sonoma
+526,DAU21635,DAU21635,216,35,DAU21635 : West Side - San Benito,West Side,San Benito
+527,DAU06840,DAU06840,68,40,DAU06840 : Arroyo Grande - San Luis Obispo,Arroyo Grande,San Luis Obispo
+528,DAU25110,DAU25110,251,10,DAU25110 : Reef Ridge - Fresno,Reef Ridge,Fresno
+529,DAU24354,DAU24354,243,54,DAU24354 : Tule Delta - Tulare,Tule Delta,Tulare
+532,DAU13225,DAU13225,132,25,DAU13225 : Big Valley - Modoc,Big Valley,Modoc
+533,DAU35213,DAU35213,352,13,DAU35213 : Anza - Imperial,Anza,Imperial
+534,DAU02511,DAU02511,25,11,DAU02511 : Upper Eel - Glenn,Upper Eel,Glenn
+536,DAU34433,DAU34433,344,33,DAU34433 : Big Wash - Riverside,Big Wash,Riverside
+539,DAU02153,DAU02153,21,53,DAU02153 : Van Duzen - Trinity,Van Duzen,Trinity
+541,DAU03053,DAU03053,30,53,DAU03053 : Mad-Trinidad - Trinity,Mad-Trinidad,Trinity
+542,DAU22354,DAU22354,223,54,DAU22354 : Kings-Kaweah Interstream - Tulare,Kings-Kaweah Interstream,Tulare
+545,DAU00125,DAU00125,1,25,DAU00125 : Lost River - Modoc,Lost River,Modoc
+548,DAU15646,DAU15646,156,46,DAU15646 : Yuba-Bear Rivers - Sierra,Yuba-Bear Rivers,Sierra
+552,DAU29536,DAU29536,295,36,DAU29536 : Bicycle - San Bernardino,Bicycle,San Bernardino
+553,DAU22754,DAU22754,227,54,DAU22754 : Deer Creek - Tulare,Deer Creek,Tulare
+556,DAU20750,DAU20750,207,50,DAU20750 : Modesto Reservoir - Stanislaus,Modesto Reservoir,Stanislaus
+556,DAU20750,DAU20750,207,50,DAU20750 : Modesto Reservoir - Stanislaus,Modesto Reservoir,Stanislaus
+557,DAU28314,DAU28314,283,14,DAU28314 : Saline - Inyo,Saline,Inyo
+559,DAU30015,DAU30015,300,15,DAU30015 : Cuddeback - Kern,Cuddeback,Kern
+562,DAU35333,DAU35333,353,33,DAU35333 : Imperial - Riverside,Imperial,Riverside
+565,DAU27002,DAU27002,270,2,DAU27002 : Carson-Walker - Alpine,Carson-Walker,Alpine
+568,DAU28114,DAU28114,281,14,DAU28114 : Deep Springs - Inyo,Deep Springs,Inyo
+570,DAU17605,DAU17605,176,5,DAU17605 : Consumnes-Mokelumne-Calaveras - Calaveras,Consumnes-Mokelumne-Calaveras,Calaveras
+571,DAU05727,DAU05727,57,27,DAU05727 : Santa Lucia Range - Monterey,Santa Lucia Range,Monterey
+575,DAU28536,DAU28536,285,36,DAU28536 : Death Valley - San Bernardino,Death Valley,San Bernardino
+578,DAU20850,DAU20850,208,50,DAU20850 : Turlock - Stanislaus,Turlock,Stanislaus
+581,DAU18034,DAU18034,180,34,DAU18034 : Elk Grove - Sacramento,Elk Grove,Sacramento
+583,DAU34233,DAU34233,342,33,DAU34233 : Quien Sabe - Riverside,Quien Sabe,Riverside
+584,DAU08142,DAU08142,81,42,DAU08142 : Ventura County - Santa Barbara,Ventura County,Santa Barbara
+587,DAU19655,DAU19655,196,55,DAU19655 : Stanislaus-Tuolumne Interstrea - Tuolumne,Stanislaus-Tuolumne Interstrea,Tuolumne
+588,DAU23954,DAU23954,239,54,DAU23954 : Alta - Tulare,Alta,Tulare
+589,DAU21024,DAU21024,210,24,DAU21024 : Merced - Merced,Merced,Merced
+590,DAU09833,DAU09833,98,33,DAU09833 : Riverside North - Riverside,Riverside North,Riverside
+591,DAU04607,DAU04607,46,7,DAU04607 : Walnut Creek - Contra Costa,Walnut Creek,Contra Costa
+593,DAU25915,DAU25915,259,15,DAU25915 : Antelope Plain - Kern,Antelope Plain,Kern
+597,DAU10430,DAU10430,104,30,DAU10430 : Riverside South - Orange,Riverside South,Orange
+600,DAU09236,DAU09236,92,36,DAU09236 : San Gabriel - San Bernardino,San Gabriel,San Bernardino
+601,DAU14404,DAU14404,144,4,DAU14404 : Los Molinos - Butte,Los Molinos,Butte
+602,DAU34836,DAU34836,348,36,DAU34836 : Coachella - San Bernardino,Coachella,San Bernardino
+603,DAU15829,DAU15829,158,29,DAU15829 : American River - Nevada,American River,Nevada
+604,DAU23716,DAU23716,237,16,DAU23716 : Lower Kings River - Kings,Lower Kings River,Kings
+605,DAU34333,DAU34333,343,33,DAU34333 : Vidal - Riverside,Vidal,Riverside
+607,DAU32936,DAU32936,329,36,DAU32936 : Fenner - San Bernardino,Fenner,San Bernardino
+609,DAU24935,DAU24935,249,35,DAU24935 : Ciervo Hills - San Benito,Ciervo Hills,San Benito
+612,DAU25715,DAU25715,257,15,DAU25715 : Northeastern Kern - Kern,Northeastern Kern,Kern
+615,DAU16651,DAU16651,166,51,DAU16651 : Durham-Sutter - Sutter,Durham-Sutter,Sutter
+616,DAU22454,DAU22454,224,54,DAU22454 : Kaweah River - Tulare,Kaweah River,Tulare
+617,DAU08719,DAU08719,87,19,DAU08719 : Malibu - Los Angeles,Malibu,Los Angeles
+618,DAU13447,DAU13447,134,47,DAU13447 : MacArthur-Hat Creek - Siskiyou,MacArthur-Hat Creek,Siskiyou
+619,DAU15446,DAU15446,154,46,DAU15446 : Feather River - Sierra,Feather River,Sierra
+621,DAU24154,DAU24154,241,54,DAU24154 : Tulare Lake - Tulare,Tulare Lake,Tulare
+622,DAU23654,DAU23654,236,54,DAU23654 : Consolidated - Tulare,Consolidated,Tulare
+624,DAU04927,DAU04927,49,27,DAU04927 : East Side - Monterey,East Side,Monterey
+625,DAU40549,DAU40549,405,49,DAU40549 : Dry Creek - Sonoma,Dry Creek,Sonoma
+628,DAU07642,DAU07642,76,42,DAU07642 : Cuyama Valley-SB - Santa Barbara,Cuyama Valley-SB,Santa Barbara
+629,DAU26829,DAU26829,268,29,DAU26829 : Truckee-Tahoe - Nevada,Truckee-Tahoe,Nevada
+636,DAU35137,DAU35137,351,37,DAU35137 : West Salton Sea - San Diego,West Salton Sea,San Diego
+637,DAU06143,DAU06143,61,43,DAU06143 : Santa Cruz Mountains - Santa Clara,Santa Cruz Mountains,Santa Clara
+639,DAU30819,DAU30819,308,19,DAU30819 : El Mirage - Los Angeles,El Mirage,Los Angeles
+641,DAU04501,DAU04501,45,1,DAU04501 : Livermore - Alameda,Livermore,Alameda
+643,DAU25256,DAU25256,252,56,DAU25256 : Grapevine - Ventura,Grapevine,Ventura
+645,DAU32733,DAU32733,327,33,DAU32733 : Dale - Riverside,Dale,Riverside
+646,DAU24810,DAU24810,248,10,DAU24810 : Panoche Creek - Fresno,Panoche Creek,Fresno
+648,DAU28814,DAU28814,288,14,DAU28814 : Amargosa - Inyo,Amargosa,Inyo
+656,DAU20650,DAU20650,206,50,DAU20650 : Modesto-Oakdale - Stanislaus,Modesto-Oakdale,Stanislaus
+657,DAU06044,DAU06044,60,44,DAU06044 : Santa Cruz - Santa Cruz,Santa Cruz,Santa Cruz
+658,DAU32736,DAU32736,327,36,DAU32736 : Dale - San Bernardino,Dale,San Bernardino
+659,DAU21320,DAU21320,213,20,DAU21320 : Madera-Chowchilla - Madera,Madera-Chowchilla,Madera
+661,DAU34036,DAU34036,340,36,DAU34036 : Needles - San Bernardino,Needles,San Bernardino
+662,DAU15834,DAU15834,158,34,DAU15834 : American River - Sacramento,American River,Sacramento
+664,DAU22010,DAU22010,220,10,DAU22010 : Los Banos Creek - Fresno,Los Banos Creek,Fresno
+664,DAU22010,DAU22010,220,10,DAU22010 : Los Banos Creek - Fresno,Los Banos Creek,Fresno
+666,DAU30519,DAU30519,305,19,DAU30519 : Mojave - Los Angeles,Mojave,Los Angeles
+670,DAU05627,DAU05627,56,27,DAU05627 : Carmel River - Monterey,Carmel River,Monterey
+671,DAU01923,DAU01923,19,23,DAU01923 : Gualala - Mendocino,Gualala,Mendocino
+674,DAU21950,DAU21950,219,50,DAU21950 : San Luis Creek - Stanislaus,San Luis Creek,Stanislaus
+676,DAU30336,DAU30336,303,36,DAU30336 : Indian Wells - San Bernardino,Indian Wells,San Bernardino
+677,DAU01047,DAU01047,10,47,DAU01047 : Lower Klamath - Siskiyou,Lower Klamath,Siskiyou
+678,DAU12037,DAU12037,120,37,DAU12037 : San Diego County - San Diego,San Diego County,San Diego
+680,DAU15831,DAU15831,158,31,DAU15831 : American River - Placer,American River,Placer
+683,DAU34613,DAU34613,346,13,DAU34613 : Arroyo Seco - Colorado River - Imperial,Arroyo Seco - Colorado River,Imperial
+685,DAU06343,DAU06343,63,43,DAU06343 : Pacheco-Santa Ana Creeks - Santa Clara,Pacheco-Santa Ana Creeks,Santa Clara
+686,DAU25116,DAU25116,251,16,DAU25116 : Reef Ridge - Kings,Reef Ridge,Kings
+688,DAU04028,DAU04028,40,28,DAU04028 : Napa - Napa,Napa,Napa
+689,DAU32136,DAU32136,321,36,DAU32136 : Bessemer - San Bernardino,Bessemer,San Bernardino
+690,DAU13752,DAU13752,137,52,DAU13752 : Clear-Cottonwood Creek - Tehama,Clear-Cottonwood Creek,Tehama
+692,DAU02523,DAU02523,25,23,DAU02523 : Upper Eel - Mendocino,Upper Eel,Mendocino
+695,DAU31936,DAU31936,319,36,DAU31936 : Lucerne - San Bernardino,Lucerne,San Bernardino
+696,DAU14752,DAU14752,147,52,DAU14752 : Eastside Creek Group - Tehama,Eastside Creek Group,Tehama
+697,DAU03012,DAU03012,30,12,DAU03012 : Mad-Trinidad - Humboldt,Mad-Trinidad,Humboldt
+702,DAU05527,DAU05527,55,27,DAU05527 : Lockwood - Monterey,Lockwood,Monterey
+703,DAU18539,DAU18539,185,39,DAU18539 : San Joaquin Delta - San Joaquin,San Joaquin Delta,San Joaquin
+705,DAU32836,DAU32836,328,36,DAU32836 : Bristol - San Bernardino,Bristol,San Bernardino
+706,DAU24410,DAU24410,244,10,DAU24410 : Westlands - Fresno,Westlands,Fresno
+711,DAU35733,DAU35733,357,33,DAU35733 : Salton Sea - Riverside,Salton Sea,Riverside
+713,DAU34336,DAU34336,343,36,DAU34336 : Vidal - San Bernardino,Vidal,San Bernardino
+714,DAU13218,DAU13218,132,18,DAU13218 : Big Valley - Lassen,Big Valley,Lassen
+715,DAU22035,DAU22035,220,35,DAU22035 : Los Banos Creek - San Benito,Los Banos Creek,San Benito
+715,DAU22035,DAU22035,220,35,DAU22035 : Los Banos Creek - San Benito,Los Banos Creek,San Benito
+716,DAU35313,DAU35313,353,13,DAU35313 : Imperial - Imperial,Imperial,Imperial
+720,DAU27914,DAU27914,279,14,DAU27914 : Centennial - Inyo,Centennial,Inyo
+723,DAU03649,DAU03649,36,49,DAU03649 : Santa Rosa - Sonoma,Santa Rosa,Sonoma
+724,DAU22110,DAU22110,221,10,DAU22110 : San Joaquin-Kings Interstream - Fresno,San Joaquin-Kings Interstream,Fresno
+725,DAU04244,DAU04244,42,44,DAU04244 : San Mateo Coast - Santa Cruz,San Mateo Coast,Santa Cruz
+726,DAU23215,DAU23215,232,15,DAU23215 : Cummings - Kern,Cummings,Kern
+729,DAU01008,DAU01008,10,8,DAU01008 : Lower Klamath - Del Norte,Lower Klamath,Del Norte
+731,DAU34813,DAU34813,348,13,DAU34813 : Coachella - Imperial,Coachella,Imperial
+732,DAU29914,DAU29914,299,14,DAU29914 : Searles - Inyo,Searles,Inyo
+733,DAU30114,DAU30114,301,14,DAU30114 : Coso - Inyo,Coso,Inyo
+734,DAU16551,DAU16551,165,51,DAU16551 : Meridian-Robbins - Sutter,Meridian-Robbins,Sutter
+737,DAU27026,DAU27026,270,26,DAU27026 : Carson-Walker - Mono,Carson-Walker,Mono
+742,DAU18103,DAU18103,181,3,DAU18103 : Ione-Jenny Lind - Amador,Ione-Jenny Lind,Amador
+743,DAU22715,DAU22715,227,15,DAU22715 : Deer Creek - Kern,Deer Creek,Kern
+746,DAU33136,DAU33136,331,36,DAU33136 : Cadiz - San Bernardino,Cadiz,San Bernardino
+747,DAU04341,DAU04341,43,41,DAU04341 : South Bay Peninsula - San Mateo,South Bay Peninsula,San Mateo
+748,DAU31636,DAU31636,316,36,DAU31636 : Baker - San Bernardino,Baker,San Bernardino
+750,DAU22915,DAU22915,229,15,DAU22915 : Upper Kern River - Kern,Upper Kern River,Kern
+753,DAU23510,DAU23510,235,10,DAU23510 : Raisin - Fresno,Raisin,Fresno
+756,DAU14211,DAU14211,142,11,DAU14211 : Red Bluff-Orland - Glenn,Red Bluff-Orland,Glenn
+758,DAU05827,DAU05827,58,27,DAU05827 : Bolsa Nueva - Monterey,Bolsa Nueva,Monterey
+761,DAU22254,DAU22254,222,54,DAU22254 : Kings River - Tulare,Kings River,Tulare
+764,DAU05835,DAU05835,58,35,DAU05835 : Bolsa Nueva - San Benito,Bolsa Nueva,San Benito
+765,DAU28014,DAU28014,280,14,DAU28014 : Fish Lake - Inyo,Fish Lake,Inyo
+767,DAU16804,DAU16804,168,4,DAU16804 : Yuba City-Gridley - Butte,Yuba City-Gridley,Butte
+769,DAU35413,DAU35413,354,13,DAU35413 : Coyote Wells - Imperial,Coyote Wells,Imperial
+772,DAU26831,DAU26831,268,31,DAU26831 : Truckee-Tahoe - Placer,Truckee-Tahoe,Placer
+774,DAU21122,DAU21122,211,22,DAU21122 : Merced Stream Group - Mariposa,Merced Stream Group,Mariposa
+775,DAU00247,DAU00247,2,47,DAU00247 : Butte Valley - Siskiyou,Butte Valley,Siskiyou
+776,DAU27426,DAU27426,274,26,DAU27426 : Mono - Mono,Mono,Mono
+777,DAU21224,DAU21224,212,24,DAU21224 : El Nido-Stevinson - Merced,El Nido-Stevinson,Merced
+781,DAU06041,DAU06041,60,41,DAU06041 : Santa Cruz - San Mateo,Santa Cruz,San Mateo
+783,DAU06243,DAU06243,62,43,DAU06243 : South Santa Clara Valley - Santa Clara,South Santa Clara Valley,Santa Clara
+785,DAU17258,DAU17258,172,58,DAU17258 : Placer - Yuba,Placer,Yuba
+788,DAU29214,DAU29214,292,14,DAU29214 : Owlshead - Inyo,Owlshead,Inyo
+790,DAU20122,DAU20122,201,22,DAU20122 : Chowchilla  River - Mariposa,Chowchilla  River,Mariposa
+792,DAU15658,DAU15658,156,58,DAU15658 : Yuba-Bear Rivers - Yuba,Yuba-Bear Rivers,Yuba
+793,DAU15802,DAU15802,158,2,DAU15802 : American River - Alpine,American River,Alpine
+794,DAU30736,DAU30736,307,36,DAU30736 : Pearblossom - San Bernardino,Pearblossom,San Bernardino
+796,DAU02723,DAU02723,27,23,DAU02723 : Mattole-Bear - Mendocino,Mattole-Bear,Mendocino
+797,DAU13952,DAU13952,139,52,DAU13952 : Stony-Elder Creek Group - Tehama,Stony-Elder Creek Group,Tehama
+802,DAU16306,DAU16306,163,6,DAU16306 : Willows-Arbuckle - Colusa,Willows-Arbuckle,Colusa
+804,DAU24510,DAU24510,245,10,DAU24510 : Kettleman Plain - Fresno,Kettleman Plain,Fresno
+805,DAU23616,DAU23616,236,16,DAU23616 : Consolidated - Kings,Consolidated,Kings
+810,DAU35037,DAU35037,350,37,DAU35037 : Clark - San Diego,Clark,San Diego
+811,DAU28836,DAU28836,288,36,DAU28836 : Amargosa - San Bernardino,Amargosa,San Bernardino
+813,DAU26318,DAU26318,263,18,DAU26318 : Madeline Plains - Lassen,Madeline Plains,Lassen
+814,DAU02312,DAU02312,23,12,DAU02312 : South Fork Eel - Humboldt,South Fork Eel,Humboldt
+815,DAU06335,DAU06335,63,35,DAU06335 : Pacheco-Santa Ana Creeks - San Benito,Pacheco-Santa Ana Creeks,San Benito
+820,DAU40223,DAU40223,402,23,DAU40223 : Coyote - Russian River - Mendocino,Coyote - Russian River,Mendocino
+822,DAU16311,DAU16311,163,11,DAU16311 : Willows-Arbuckle - Glenn,Willows-Arbuckle,Glenn
+823,DAU20224,DAU20224,202,24,DAU20224 : Mariposa - Merced,Mariposa,Merced
+824,DAU13745,DAU13745,137,45,DAU13745 : Clear-Cottonwood Creek - Shasta,Clear-Cottonwood Creek,Shasta
+825,DAU13645,DAU13645,136,45,DAU13645 : Upper Shasta Lake - Shasta,Upper Shasta Lake,Shasta
+828,DAU40123,DAU40123,401,23,DAU40123 : Forsythe - Mendocino,Forsythe,Mendocino
+831,DAU03549,DAU03549,35,49,DAU03549 : Lower Russian - Sonoma,Lower Russian,Sonoma
+832,DAU08319,DAU08319,83,19,DAU08319 : Los Angeles County - Los Angeles,Los Angeles County,Los Angeles
+833,DAU15432,DAU15432,154,32,DAU15432 : Feather River - Plumas,Feather River,Plumas
+834,DAU33936,DAU33936,339,36,DAU33936 : Piute - San Bernardino,Piute,San Bernardino
+838,DAU21610,DAU21610,216,10,DAU21610 : West Side - Fresno,West Side,Fresno
+839,DAU10433,DAU10433,104,33,DAU10433 : Riverside South - Riverside,Riverside South,Riverside
+841,DAU09636,DAU09636,96,36,DAU09636 : Orange - San Bernardino,Orange,San Bernardino
+845,DAU17209,DAU17209,172,9,DAU17209 : Placer - El Dorado,Placer,El Dorado
+848,DAU30836,DAU30836,308,36,DAU30836 : El Mirage - San Bernardino,El Mirage,San Bernardino
+851,DAU29736,DAU29736,297,36,DAU29736 : Superior - San Bernardino,Superior,San Bernardino
+853,DAU16131,DAU16131,161,31,DAU16131 : Placer Foothill - Placer,Placer Foothill,Placer
+855,DAU32636,DAU32636,326,36,DAU32636 : Joshua Tree - San Bernardino,Joshua Tree,San Bernardino
+856,DAU13911,DAU13911,139,11,DAU13911 : Stony-Elder Creek Group - Glenn,Stony-Elder Creek Group,Glenn
+858,DAU06940,DAU06940,69,40,DAU06940 : Carrizo Plain - San Luis Obispo,Carrizo Plain,San Luis Obispo
+860,DAU30615,DAU30615,306,15,DAU30615 : Rosamond-Palmdale - Kern,Rosamond-Palmdale,Kern
+862,DAU32336,DAU32336,323,36,DAU32336 : Emerson - San Bernardino,Emerson,San Bernardino
+863,DAU32236,DAU32236,322,36,DAU32236 : Means - San Bernardino,Means,San Bernardino
+864,DAU25615,DAU25615,256,15,DAU25615 : North Kern - Kern,North Kern,Kern
+869,DAU21924,DAU21924,219,24,DAU21924 : San Luis Creek - Merced,San Luis Creek,Merced
+871,DAU06640,DAU06640,66,40,DAU06640 : North Coast - San Luis Obispo,North Coast,San Luis Obispo
+872,DAU07442,DAU07442,74,42,DAU07442 : Santa Ynez - Santa Barbara,Santa Ynez,Santa Barbara
+874,DAU30436,DAU30436,304,36,DAU30436 : Fremont - San Bernardino,Fremont,San Bernardino
+876,DAU28714,DAU28714,287,14,DAU28714 : Furnace Creek - Inyo,Furnace Creek,Inyo
+879,DAU18648,DAU18648,186,48,DAU18648 : Sacramento Delta - Solano,Sacramento Delta,Solano
+880,DAU10033,DAU10033,100,33,DAU10033 : San Bernardino - Riverside,San Bernardino,Riverside
+882,DAU25215,DAU25215,252,15,DAU25215 : Grapevine - Kern,Grapevine,Kern
+883,DAU14452,DAU14452,144,52,DAU14452 : Los Molinos - Tehama,Los Molinos,Tehama
+885,DAU16457,DAU16457,164,57,DAU16457 : Glenn-Knights Landing - Yolo,Glenn-Knights Landing,Yolo
+887,DAU14545,DAU14545,145,45,DAU14545 : Cow-Battle Creek - Shasta,Cow-Battle Creek,Shasta
+888,DAU13906,DAU13906,139,6,DAU13906 : Stony-Elder Creek Group - Colusa,Stony-Elder Creek Group,Colusa
+890,DAU31136,DAU31136,311,36,DAU31136 : Harper - San Bernardino,Harper,San Bernardino
+891,DAU17334,DAU17334,173,34,DAU17334 : Sacramento - Sacramento,Sacramento,Sacramento
+893,DAU04148,DAU04148,41,48,DAU04148 : Solano - Solano,Solano,Solano
+897,DAU25010,DAU25010,250,10,DAU25010 : Los Gatos Creek - Fresno,Los Gatos Creek,Fresno
+898,DAU05127,DAU05127,51,27,DAU05127 : Upper Valley - Monterey,Upper Valley,Monterey
+901,DAU28126,DAU28126,281,26,DAU28126 : Deep Springs - Mono,Deep Springs,Mono
+902,DAU24835,DAU24835,248,35,DAU24835 : Panoche Creek - San Benito,Panoche Creek,San Benito
+903,DAU21750,DAU21750,217,50,DAU21750 : Del Puerto Creek - Stanislaus,Del Puerto Creek,Stanislaus
+904,DAU05327,DAU05327,53,27,DAU05327 : Arroyo Seco - Northern - Monterey,Arroyo Seco - Northern,Monterey
+905,DAU34513,DAU34513,345,13,DAU34513 : Palo Verde - Imperial,Palo Verde,Imperial
+907,DAU06540,DAU06540,65,40,DAU06540 : Upper Salinas - San Luis Obispo,Upper Salinas,San Luis Obispo
+908,DAU20222,DAU20222,202,22,DAU20222 : Mariposa - Mariposa,Mariposa,Mariposa
+910,DAU21850,DAU21850,218,50,DAU21850 : Orestimba Creek - Stanislaus,Orestimba Creek,Stanislaus
+912,DAU00753,DAU00753,7,53,DAU00753 : Trinity - Trinity,Trinity,Trinity
+919,DAU04827,DAU04827,48,27,DAU04827 : Pressure - Monterey,Pressure,Monterey
+920,DAU03749,DAU03749,37,49,DAU03749 : Bodega - Sonoma,Bodega,Sonoma
+922,DAU04443,DAU04443,44,43,DAU04443 : San Jose - Santa Clara,San Jose,Santa Clara
+923,DAU24416,DAU24416,244,16,DAU24416 : Westlands - Kings,Westlands,Kings
+924,DAU17603,DAU17603,176,3,DAU17603 : Consumnes-Mokelumne-Calaveras - Amador,Consumnes-Mokelumne-Calaveras,Amador
+926,DAU16029,DAU16029,160,29,DAU16029 : Yuba Foothill - Nevada,Yuba Foothill,Nevada
+932,DAU19824,DAU19824,198,24,DAU19824 : Tuolumne-Merced Interstream - Merced,Tuolumne-Merced Interstream,Merced
+933,DAU30936,DAU30936,309,36,DAU30936 : Upper Mojave - San Bernardino,Upper Mojave,San Bernardino
+936,DAU19201,DAU19201,192,1,DAU19201 : Antioch-Corral Hollow - Alameda,Antioch-Corral Hollow,Alameda
+938,DAU17151,DAU17151,171,51,DAU17151 : Yuba - Sutter,Yuba,Sutter
+939,DAU20320,DAU20320,203,20,DAU20320 : San Joaquin  River - Madera,San Joaquin  River,Madera
+941,DAU20924,DAU20924,209,24,DAU20924 : Turlock Lake - Merced,Turlock Lake,Merced
+942,DAU22554,DAU22554,225,54,DAU22554 : Kaweah-Tule Interstream - Tulare,Kaweah-Tule Interstream,Tulare
+944,DAU16611,DAU16611,166,11,DAU16611 : Durham-Sutter - Glenn,Durham-Sutter,Glenn
+945,DAU16711,DAU16711,167,11,DAU16711 : Butte City - Glenn,Butte City,Glenn
+946,DAU07040,DAU07040,70,40,DAU07040 : Santa Maria Valley-SLO - San Luis Obispo,Santa Maria Valley-SLO,San Luis Obispo
+949,DAU33733,DAU33733,337,33,DAU33733 : Pleasant - Riverside,Pleasant,Riverside
+951,DAU28514,DAU28514,285,14,DAU28514 : Death Valley - Inyo,Death Valley,Inyo
+952,DAU16411,DAU16411,164,11,DAU16411 : Glenn-Knights Landing - Glenn,Glenn-Knights Landing,Glenn
+954,DAU33333,DAU33333,333,33,DAU33333 : Rice - Riverside,Rice,Riverside
+955,DAU17528,DAU17528,175,28,DAU17528 : Putah Creek - Napa,Putah Creek,Napa

@@ -1,0 +1,6 @@
+FROM rocker/shiny:latest
+RUN apt update && apt install -y libxml2-dev libssl-dev libgeos-dev libgdal-dev
+RUN install.r ggplot2 XML RCurl plotrix plotly remotes leaflet.esri maps rgdal readxl rgeos maptools shinydashboard DT mapproj ggthemes
+RUN installGithub.r USGS-R/wateRuse WSWCWaterDataExchange/Apps/wadeR
+EXPOSE 3838
+WORKDIR /srv/shiny-server
