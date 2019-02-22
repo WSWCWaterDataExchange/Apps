@@ -25,10 +25,18 @@ output$CustomMapData <- renderLeaflet({
                 popup=paste(tags$b("Reporting Unit ID:"), HR$RU_ID, "<br>", 
                             tags$b("Name:"), HR$RU_Name, "<br>",
                             HR$CATALOGLINK))%>%
+    
     addPolygons(data = PA, weight=1, col = 'grey',
                 highlightOptions = highlightOptions(color = "blue", weight = 2,bringToFront = TRUE), group = "Planning Area",
                 popup=paste(tags$b("Name:"), PA$RU_Name, "<br>",
                             PA$CATALOGLINK))%>%
+    
+    
+    addPolygons(data = WA_Cust, weight=1, col = 'grey',
+                highlightOptions = highlightOptions(color = "blue", weight = 2,bringToFront = TRUE),
+                popup=paste(tags$b("Name:"), WA_Cust$RU_Name, "<br>",
+                            WA_Cust$CATALOGLINK))%>% 
+    
     addLayersControl(position = "bottomleft",
                 baseGroups = c("Hydrologic Region","Detailed Analysis Unit", "Planning Area"),
                 options = layersControlOptions(collapsed = TRUE)
